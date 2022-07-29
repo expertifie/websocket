@@ -2,7 +2,7 @@
 A websocket demo application
 
 1. Install golang on your computer by following this page - https://go.dev/doc/install
-2. Run Below commands -
+2. Run Below commands in project directory -
 
     go mod init expertifie/websocket # It will create a go.mod file in the same directory
     
